@@ -1,0 +1,10 @@
+body{
+    background-color: #eff1f2;
+}
+
+.col.content:hover{
+    background-color: #198754;
+    cursor: pointer;
+    color: white;
+    border-radius: 15px;
+}
