@@ -2,7 +2,7 @@ function getData(){
     const options = {
         method : 'GET',
         headers: {
-            'X-RapidAPI-Key': 'cbc2b9d2a6msh09c81e8b8caccd7p108b37jsnb83cc689b8a4',
+            'X-RapidAPI-Key': '',
 		    'X-RapidAPI-Host': 'covid-193.p.rapidapi.com'
           }
     }
